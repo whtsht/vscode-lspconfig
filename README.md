@@ -64,7 +64,7 @@ An array of strings that represent the command to start the language server. Thi
                 }
             ],
             "command": [
-                "pyright"
+                "pyright-langserver --stdio"
             ]
         },
         {
