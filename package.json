@@ -2,13 +2,22 @@
   "name": "vscode-lspconfig",
   "displayName": "vscode-lspconfig",
   "description": "A LSP client configuration tool for vscode",
+  "publisher": "whtsht",
   "license": "MIT",
   "version": "1.0.0",
+  "homepage": "https://github.com/whtsht/vscode-lspconfig",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:whtsht/vscode-lspconfig.git"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages"
+  ],
+  "keywords": [
+    "language-server"
   ],
   "activationEvents": [
     "onLanguage"
